@@ -335,6 +335,10 @@ footer a:hover {
   .row-timeline .col-sm-8 .timeline-body:after {
     display: none;
   }
+	.banner{
+  	background-size: 100%;
+  	    height: 320px;
+  }
 }
 @media (min-width: 1200px) {
   .row-timeline .timeline-heading {
