@@ -36,6 +36,9 @@ section {
 .bg-primary{
 	background-color: #696969!important;
 }
+.bg-dark{
+	opacity: 0.8;
+}
 
 .col-in {
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0HH38M-KFQi24WJR0RPN6QifOrYCoFgjWoOwssLrU9zd3z1wP");
